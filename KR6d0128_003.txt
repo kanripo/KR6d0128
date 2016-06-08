@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:31.664863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:27
 #+TITLE: 法華論疏
 #+PROPERTY: CBETA_ID T40n1818
 #+PROPERTY: ID KR6d0128

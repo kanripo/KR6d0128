@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:31.572510
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:27
 #+TITLE: 法華論疏
 #+PROPERTY: CBETA_ID T40n1818
 #+PROPERTY: ID KR6d0128
@@ -12,7 +12,7 @@
 ¶
 No. 1818 [cf. No. 1519]¶
 
-刻法華論疏序¶
+* 刻法華論疏序¶
 ¶
 
 法華論疏者嘉祥大師之所撰也。本山實藏¶
